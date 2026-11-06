@@ -86,5 +86,4 @@ These are hypotheses from simulated data, not claims about real Indonesian consu
 - Estimated cost is not audited cost of goods sold.
 
 ## Author
-**Your Name** — Aspiring Data Analyst | Python • SQL • Data Visualization  
-LinkedIn: https://www.linkedin.com/ | GitHub: https://github.com/your-username
+HANDUR
